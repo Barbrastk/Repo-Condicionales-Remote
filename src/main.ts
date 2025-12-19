@@ -1,3 +1,5 @@
+import './style.css';
+
 document.addEventListener("DOMContentLoaded", () => {
 
     let puntuacion = 0;
